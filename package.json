@@ -1,0 +1,29 @@
+{
+  "name": "appwrite-simple-permissions",
+  "version": "0.0.1",
+  "description": "Demonstration of examples used in the Appwrite 101 series.",
+  "main": "basic.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codercatdev/appwrite-simple-permissions.git"
+  },
+  "keywords": [
+    "javascript",
+    "appwrite"
+  ],
+  "author": "Alex Patterson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codercatdev/appwrite-simple-permissions/issues"
+  },
+  "homepage": "https://github.com/codercatdev/appwrite-simple-permissions#readme",
+  "dependencies": {
+    "appwrite": "^10.2.0"
+  }
+}
