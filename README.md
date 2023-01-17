@@ -1,0 +1,1 @@
+# appwrite-simple-permissions
