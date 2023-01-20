@@ -1,3 +1,12 @@
-# appwrite-simple-permissions
+# Appwrite Simple Permissions
 
-Demonstration of examples used in the Appwrite 101 series.
+## Developing
+
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+```bash
+npm run dev
+
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
